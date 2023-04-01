@@ -1,5 +1,6 @@
 from multiprocessing import Value
 import streamlit as st
+import pandas as pd
 
 # UI for car information input
 st.title("Car Information")
